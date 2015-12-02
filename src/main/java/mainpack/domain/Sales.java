@@ -5,7 +5,7 @@ import org.hibernate.annotations.Type;
 import javax.persistence.*;
 
 /**
- * Created by admin on 11.12.2014.
+ * @author Yashchuk A.F.
  */
 @Entity
 @Table(name = "SALES")

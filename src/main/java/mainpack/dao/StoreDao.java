@@ -6,7 +6,7 @@ import mainpack.domain.Store;
 import java.util.List;
 
 /**
- * Created by Pavlo Kozhukhar on 11.12.2014.
+ * @author Yashchuk A.F.
  */
 public interface StoreDao {
     Long create(Store store);

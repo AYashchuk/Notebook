@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by admin on 24.12.2014.
+ * @author Yashchuk A.F.
  */
 @Service
 public class NotebookServiceImpl implements NotebookService {

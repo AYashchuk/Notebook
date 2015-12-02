@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /**
- * Created by admin on 11.12.2014.
+ * @author Yashchuk A.F.
  */
 @Entity
 @Table(name = "STORES")

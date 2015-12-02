@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 import java.util.Locale;
 
 /**
- * Created by admin on 24.12.2014.
+ * @author Yashchuk A.F.
  */
 @Component
 public class Main {

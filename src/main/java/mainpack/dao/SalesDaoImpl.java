@@ -11,7 +11,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * Created by Pavlo Kozhukhar on 11.12.2014.
+ * @author Yashchuk A.F.
  */
 @Repository
 @Transactional

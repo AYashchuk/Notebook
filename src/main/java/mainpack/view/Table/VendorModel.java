@@ -5,9 +5,8 @@ import javax.swing.table.AbstractTableModel;
 import java.util.List;
 
 /**
- * Created by admin on 13.01.2015.
+ * @author Yashchuk A.F.
  */
-
 public class VendorModel extends AbstractTableModel{
 
   private List<Vendor> vendors ;

@@ -6,7 +6,7 @@ import javax.swing.table.AbstractTableModel;
 import java.util.List;
 
 /**
- * Created by admin on 15.01.2015.
+ * @author Yashchuk A.F.
  */
 public class CpuModel extends AbstractTableModel {
     private List<CPU> cpu ;

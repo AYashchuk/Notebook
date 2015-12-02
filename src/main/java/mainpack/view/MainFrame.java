@@ -29,7 +29,7 @@ import java.util.Scanner;
 
 
 /**
- * Created by admin on 30.12.2014.
+ * @author Yashchuk A.F.
  */
 @Component
 public class MainFrame extends JFrame {

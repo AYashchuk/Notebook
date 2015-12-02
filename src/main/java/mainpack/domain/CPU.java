@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Created by admin on 11.12.2014.
+ * @author Yashchuk A.F.
  */
 @Entity
 @Table(name = "CPUS")
